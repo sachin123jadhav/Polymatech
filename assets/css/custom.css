@@ -1,7 +1,7 @@
 /*-- Use For Custom Styling --*/
 
 header a.logo img {
-    max-width: 200px;
+    max-width: 65px;
   }
   .slider-area input{margin: 0;
     height: 54px;}
@@ -102,7 +102,7 @@ p.para{overflow: hidden;
         list-style: none;
         display: flex;
       }
-      .footer img{max-width: 150px; margin-bottom: 15px;}
+      .footer img{max-width: 65px; margin-bottom: 15px;}
       .footer_area h4{margin-bottom: 30px;}
       .footer_area h5{ font-size: 16px;}
       .footer_area .list-icon.social li{ margin-right: 15px; font-size: 25px;}
@@ -427,7 +427,7 @@ p.para{overflow: hidden;
 .footer {
   padding: 2rem 0;
 }
-
+.cta .btn{padding:15px 25px; font-size: 25px;}
 
 
 
@@ -475,6 +475,7 @@ p.para{overflow: hidden;
     .area-heading h1 {
       font-size: 25px;
     }
+    .reverse-mobile{flex-direction: column-reverse;}
 }
 
 
